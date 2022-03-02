@@ -1,3 +1,3 @@
 # MINIPROJECT
 
-This project has been done under our college curriculumn ad is still under development. 
+This project has been done as part of our college curriculumn and is still under development. 
